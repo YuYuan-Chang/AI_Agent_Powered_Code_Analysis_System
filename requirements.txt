@@ -1,0 +1,24 @@
+# Core dependencies
+openai>=1.0.0
+langchain>=0.1.0
+langchain-openai>=0.1.0
+langchain-core>=0.1.0
+langchain-text-splitters>=0.0.1
+neo4j>=5.0.0
+pydantic>=2.0.0
+
+# Data processing
+pandas>=1.5.0
+numpy>=1.24.0
+
+# File processing
+python-magic-bin>=0.4.14
+pathspec>=0.11.0
+
+# Logging and monitoring
+structlog>=23.0.0
+
+# Development
+pytest>=7.0.0
+black>=22.0.0
+flake8>=4.0.0
